@@ -1,0 +1,2 @@
+nuget pack asdf.nuspec -Version $VERSION_VALUE_COMMIT -properties configuration=Debug
+

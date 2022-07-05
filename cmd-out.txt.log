@@ -1,0 +1,3 @@
+nuget pack asdf.nuspec -Version 2.99.99 -properties configuration=Debug                                                                      
+Attempting to build package from 'asdf.nuspec'.                                                                                                            
+Error NU5050: Attempted to pack multiple files into the same location(s). The following destinations were used multiple times: lib\net45\asdf.Utils.dll, lib\net45\asdf.Utils.pdb, ..
